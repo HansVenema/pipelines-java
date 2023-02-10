@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/tvmoebius/sbx-dd-douanedataplatform/_apis/build/status/HansVenema.pipelines-java?branchName=main)](https://dev.azure.com/tvmoebius/sbx-dd-douanedataplatform/_build/latest?definitionId=338&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
